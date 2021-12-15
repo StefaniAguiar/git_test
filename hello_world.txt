@@ -1,0 +1,1 @@
+"Type "code ." to open a file on VSCode
